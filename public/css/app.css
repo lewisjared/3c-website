@@ -5,6 +5,10 @@
     margin: -10px;
 }
 
+.jumbotron h1,h2,h3 {
+    margin: 0;
+}
+
 .inner {
     position: absolute;
     top: 0;
