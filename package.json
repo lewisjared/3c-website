@@ -1,0 +1,17 @@
+{
+  "name": "3c-website",
+  "version": "1.0.0",
+  "description": "HTML site for community climate change forum",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/bodekerscientific/3c-website.git"
+  },
+  "author": "Jared Lewis (jared@jared.kiwi.nz",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  }
+}
