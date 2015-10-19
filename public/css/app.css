@@ -1,6 +1,6 @@
 .jumbotron {
     height: 350px;
-    background-image: url('images/Amisfield_cropped.jpg');
+    background-image: url('../images/Amisfield_cropped.jpg');
     background-size: cover;
     margin: -10px;
 }
